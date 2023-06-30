@@ -17,4 +17,6 @@ Additional publications:
 
 - https://dl.acm.org/doi/abs/10.1109/IST.2016.7738227 
 
+This paper and software was nominated with the **IEEE Best Student Paper** award of the year.
+
 *Note: To run the GUI, you either need to have Matlab 2016 installed or you need to download and install the Matlab Compiler Runtime 2016*
