@@ -1,6 +1,6 @@
 # HybridHDR
 
-The paper associated with this project is available [here](http://utopia.duth.gr/nmitiano/pdf/ist2016.pdf)
+The scientific paper associated with this project is available [here](http://utopia.duth.gr/nmitiano/pdf/ist2016.pdf).
 
 [Published by the IEEE](http://ieeexplore.ieee.org/document/7738227/?reload=true) at the International Conference on Imaging Systems and Techniques (IST 2016).
 
